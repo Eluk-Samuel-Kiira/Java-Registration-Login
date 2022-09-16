@@ -1,0 +1,12 @@
+0,username,password,name,gender,date_of_birth
+1,w,w,w,w,w
+2,r,r,r,r,r
+3,c,2,d,t,4
+4,sam,11,Eluk Samuel,g,1998
+5,hh,ee,rrtt,eegg,4455
+6,f,f,ff,ff,ff
+7,t,t,t,t,t
+8,v,v,dac,e,33
+9,q,q,samuel,m,3939
+10,go,23,samuel,f,1998
+11,u,12,dan,f,2020
